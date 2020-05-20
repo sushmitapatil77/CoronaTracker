@@ -1,0 +1,10 @@
+Dependecies:
+	axios: for api
+	react-chart: for displaying charts
+	react-countup: for count up annimation
+	material-UI: for CSS. Something like bootstrap but more sophisticated and 
+		better suited for UI
+	classnames: to assign multiple classnames to one element
+
+You can use classes or use hooks(useState and useEffect)
+You cannot use asyn for useEffect function. Instead, create another function inside to return the promise.
